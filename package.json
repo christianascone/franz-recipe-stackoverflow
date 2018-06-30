@@ -1,0 +1,13 @@
+{
+  "id": "stackoverflow",
+  "name": "Stackoverflow",
+  "version": "0.0.1",
+  "description": "Stackoverflow",
+  "main": "index.js",
+  "author": "Christian Ascone <ascone.christian@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://stackoverflow.com",
+    "hasNotificationSound": true
+  }
+}
